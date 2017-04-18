@@ -9,9 +9,12 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-  },
   "dependencies": {
+    "express": "^4.15.2",
+    "mongodb": "^2.2.26",
     "nodemon": "^1.11.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.1"
   }
 }
